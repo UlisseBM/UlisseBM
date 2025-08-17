@@ -41,6 +41,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-black?style=flat&logo=gnometerminal&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Xray](https://img.shields.io/badge/Xray-Test%20Management-blueviolet?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
 
 ### 🚀 DevOps & Platforms
