@@ -1,4 +1,4 @@
-# Ciao!, I'm Ulisse 👋
+# Ciao! I'm Ulisse 👋
 
 <p align="center">
   <img height="180rem" alt="GIF" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
