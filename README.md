@@ -7,11 +7,18 @@
 
 ## 🪐 About Me
 
-- 💺 I'm Italian, Spanish, and Venezuelan.
-- 👨‍💻 Fullstack Developer in progress.
-- 🔧 Focused in Backend.
-- 🧪 Currently working as a Test Automation engineer/QC Analyst.
-- 📚 Always learning new technologies and building cool stuff.
+Software Developer with a QA Automation background, focused on quality-driven development and clean software design.
+
+Working as a Test Automation Engineer has shaped the way I write code: thinking about edge cases, maintainability, and long-term reliability from day one.
+
+Experience includes:
+
+• E2E test automation with Selenium and WebDriverIO  
+• Performance testing using k6  
+• Test framework development and refactoring  
+• CI/CD integration and collaboration with DevOps teams (Jenkins, Docker, Git)  
+
+Currently transitioning deeper into backend and fullstack development, building features and modules from scratch with a strong emphasis on quality and scalability.
 
 ## 🌍 Languages
 
